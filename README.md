@@ -30,6 +30,7 @@ In a new `virtualenv`, run this:
 pip install -r requirements.txt
 ```
 
-#The below instructions are for people or for future me.
-Remember that the in myNotebooks the version of packages is different and hence the data or working maybe different
+##The below instructions are for people or for future me.
+
+1. Remember that the in myNotebooks the version of packages is different and hence the data or working maybe different
 
